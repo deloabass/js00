@@ -1,1 +1,1 @@
-console.log(700+40+10)
+console.log(125*2*3);
